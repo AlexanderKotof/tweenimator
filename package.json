@@ -1,0 +1,26 @@
+{
+    "name": "com.AlexanderKotof.tweenimator",
+    "version": "1.0.0",
+    "displayName": "Tweenimator - Easy Animator Optimization for Unity",
+    "description": "Tweenimator is a powerful tweening library for Unity.",
+    "unity": "2022.3",
+    "license": "MIT",
+    "keywords": [
+        "tween",
+        "tweening",
+        "animation",
+        "animator",
+        "performance",
+        "optimization"
+    ],
+    "dependencies": {
+        "com.annulusgames.lit-motion": "https://github.com/annulusgames/LitMotion.git?path=src/LitMotion/Assets/LitMotion",
+        "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+        "com.tayx.graphy": "https://github.com/Tayx94/graphy.git"
+    },
+    "author": {
+	    "name": "Alexander Kotov",
+	    "email": "newbeedevinc@gmail.com",
+        "url": "https://github.com/AlexanderKotof"
+  	}
+}
