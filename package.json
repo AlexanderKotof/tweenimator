@@ -27,7 +27,7 @@
         {
             "displayName": "Examples And Benchmark",
             "description": "Example scenes showing how to use the core components. Also includes a benchmark scenes to compare Tweenimator with built-in Unity Animator.",
-            "path": "Samples/Examples"
+            "path": "Samples~/Examples"
         }
     ]
 }
