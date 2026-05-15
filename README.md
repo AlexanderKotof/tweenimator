@@ -127,9 +127,9 @@ See the [Examples](Assets/Examples/) folder for performance comparison with Unit
 
 | Built-In Animator | Tweenimator |
 |-------------------|-------------------|
-| 1000 obj ![image](Info/BuiltIn_Animator_sample_1000.png)| 1000 obj ![image](Info/Tweenimator_sample_1000.png)|
-| 3000 obj ![image](Info/BuiltIn_Animator_sample_3000.png)| 3000 obj ![image](Info/Tweenimator_sample_3000.png)|
-| 5000 obj ![image](Info/BuiltIn_Animator_sample_5000.png)| 5000 obj ![image](Info/Tweenimator_sample_5000.png)|
+| 1000 obj ![image](Info~/BuiltIn_Animator_sample_1000.png)| 1000 obj ![image](Info~/Tweenimator_sample_1000.png)|
+| 3000 obj ![image](Info~/BuiltIn_Animator_sample_3000.png)| 3000 obj ![image](Info~/Tweenimator_sample_3000.png)|
+| 5000 obj ![image](Info~/BuiltIn_Animator_sample_5000.png)| 5000 obj ![image](Info~/Tweenimator_sample_5000.png)|
 
 ## Examples
 
