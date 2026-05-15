@@ -1,8 +1,8 @@
 {
-    "name": "com.AlexanderKotof.tweenimator",
+    "name": "com.newbeedev.tweenimator",
     "version": "1.0.0",
     "displayName": "Tweenimator - Easy Animator Optimization for Unity",
-    "description": "Tweenimator is a powerful tweening library for Unity.",
+    "description": "Tweenimator is a powerful animation system for Unity based on LitMotion.",
     "unity": "2022.3",
     "license": "MIT",
     "keywords": [
@@ -15,12 +15,19 @@
     ],
     "dependencies": {
         "com.annulusgames.lit-motion": "https://github.com/annulusgames/LitMotion.git?path=src/LitMotion/Assets/LitMotion",
-        "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
-        "com.tayx.graphy": "https://github.com/Tayx94/graphy.git"
+        "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
     },
     "author": {
 	    "name": "Alexander Kotov",
 	    "email": "newbeedevinc@gmail.com",
         "url": "https://github.com/AlexanderKotof"
-  	}
+  	},
+    "documentationUrl": "https://github.com/AlexanderKotof/Tweenimator/blob/main/README.md",
+    "samples": [
+        {
+            "displayName": "Examples And Benchmark",
+            "description": "Example scenes showing how to use the core components. Also includes a benchmark scenes to compare Tweenimator with built-in Unity Animator.",
+            "path": "Samples/Examples"
+        }
+    ]
 }
